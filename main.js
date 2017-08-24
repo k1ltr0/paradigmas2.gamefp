@@ -7,9 +7,11 @@ window.addEventListener('load', function () {
     new ExampleMap1(),
     new ExampleMap2()
   ], [
+    //sebastian
+    belen
     //KnightHero
     //Hero,
-    knight
+    //knight
     //hero
   ]);
 
