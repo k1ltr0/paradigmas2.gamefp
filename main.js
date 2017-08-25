@@ -9,7 +9,9 @@ window.addEventListener('load', function () {
   ], [
     //KnightHero
     //Hero,
-    knight
+    //knight,
+    //gloria
+    alex
     //hero
   ]);
 
